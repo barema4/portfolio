@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/porti/static/css/main.da284773.chunk.css",
+    "main.js": "/porti/static/js/main.313f8c4a.chunk.js",
+    "main.js.map": "/porti/static/js/main.313f8c4a.chunk.js.map",
+    "runtime-main.js": "/porti/static/js/runtime-main.544c52de.js",
+    "runtime-main.js.map": "/porti/static/js/runtime-main.544c52de.js.map",
+    "static/js/2.2cd699ad.chunk.js": "/porti/static/js/2.2cd699ad.chunk.js",
+    "static/js/2.2cd699ad.chunk.js.map": "/porti/static/js/2.2cd699ad.chunk.js.map",
+    "static/css/3.f9898e9a.chunk.css": "/porti/static/css/3.f9898e9a.chunk.css",
+    "static/js/3.8993dd33.chunk.js": "/porti/static/js/3.8993dd33.chunk.js",
+    "static/js/3.8993dd33.chunk.js.map": "/porti/static/js/3.8993dd33.chunk.js.map",
+    "static/css/4.54df59d4.chunk.css": "/porti/static/css/4.54df59d4.chunk.css",
+    "static/js/4.d3edafce.chunk.js": "/porti/static/js/4.d3edafce.chunk.js",
+    "static/js/4.d3edafce.chunk.js.map": "/porti/static/js/4.d3edafce.chunk.js.map",
+    "index.html": "/porti/index.html",
+    "precache-manifest.ff16efa3c8ab7dab68fcdeaa316b7c59.js": "/porti/precache-manifest.ff16efa3c8ab7dab68fcdeaa316b7c59.js",
+    "service-worker.js": "/porti/service-worker.js",
+    "static/css/3.f9898e9a.chunk.css.map": "/porti/static/css/3.f9898e9a.chunk.css.map",
+    "static/css/4.54df59d4.chunk.css.map": "/porti/static/css/4.54df59d4.chunk.css.map",
+    "static/css/main.da284773.chunk.css.map": "/porti/static/css/main.da284773.chunk.css.map",
+    "static/js/2.2cd699ad.chunk.js.LICENSE.txt": "/porti/static/js/2.2cd699ad.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/porti/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/Andela.png": "/porti/static/media/Andela.eafb85eb.png",
+    "static/media/contactMail.webp": "/porti/static/media/contactMail.68e84138.webp",
+    "static/media/cowsoko.png": "/porti/static/media/cowsoko.74a4f3dc.png",
+    "static/media/developerActivity.svg": "/porti/static/media/developerActivity.59389695.svg",
+    "static/media/freelance.png": "/porti/static/media/freelance.b627c48d.png",
+    "static/media/manOnTable.svg": "/porti/static/media/manOnTable.52be3144.svg",
+    "static/media/skill.svg": "/porti/static/media/skill.34409398.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.544c52de.js",
+    "static/js/2.2cd699ad.chunk.js",
+    "static/css/main.da284773.chunk.css",
+    "static/js/main.313f8c4a.chunk.js"
+  ]
+}
